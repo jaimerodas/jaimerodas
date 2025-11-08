@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello! 👋
+- 😄 My name is Jaime (he/him), pronounced (*hi-mae*) although I'm very used to (*jay-me*) as well
+- 🏢 I'm a former web developer turned manager, currently working at [change.org](https://change.org)
+- ✉️ Look at my [GitHub profile](https://github.com/jaimerodas) or my [website](https://jaime.dev) for ways to contact me
 
 <!--
 **jaimerodas/jaimerodas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
